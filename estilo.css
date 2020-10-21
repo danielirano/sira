@@ -1,9 +1,18 @@
 body{
-    background-color: blue;
+    background-color: rgba(143, 143, 250, 0.931);
     margin: 0;
     padding: 0;
 }
 
 h1{
     color: gold;
+    font-size: 60px;
+}
+p{
+    color: #ffffff;
+    font-size: 40px;
+}
+.conteudo{
+    align-items: center;
+    text-align: center;
 }
